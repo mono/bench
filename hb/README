@@ -1,0 +1,14 @@
+hb - HttpWebRequest Benchmark 
+------------------------------------
+hb is a wannabe ab (Apache Benchmark) like benchmarking tool.
+
+Just type 'make' to compile.
+
+Then run it like:
+
+	mono hb.exe -n NN http://.....
+
+where NN is the number of request (GET) to do.
+
+-Gonzalo
+
